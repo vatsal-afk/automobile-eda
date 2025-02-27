@@ -1,12 +1,17 @@
-Flight Ticket Price Prediction ✈️
+# Flight Ticket Price Prediction  
 
-This project aims to predict flight ticket prices based on various features like airline, departure time, flight duration, and number of stops. By building a machine learning model, we can estimate flight prices for new bookings based on these factors, making it a practical and useful tool for travel enthusiasts, agencies, and even individuals looking for affordable flight options.
+## Overview  
+This project uses machine learning to predict flight ticket prices based on factors such as airline, departure time, flight duration, and number of stops. By analyzing historical flight data, the model provides price estimates for new bookings, helping travelers and agencies make informed decisions.  
 
-Project Overview
-The goal of this project is to create a model that can predict flight ticket prices based on the following factors:
+## Objectives  
+- Build a predictive model for flight ticket prices.  
+- Identify key factors influencing price variations.  
+- Provide data-driven price estimates for flights.  
 
-Airline: The airline company operating the flight.
-Departure Time: The scheduled departure time of the flight.
-Duration: The total flight duration.
-Stops: The number of stops during the flight.
-Other Features: Additional columns that could influence the ticket price.
+## Features Used  
+The model considers the following features:  
+- **Airline:** The airline operating the flight.  
+- **Departure Time:** Scheduled flight departure time.  
+- **Duration:** Total flight duration.  
+- **Stops:** Number of layovers.  
+- **Other Factors:** Additional details that may influence ticket prices.  
