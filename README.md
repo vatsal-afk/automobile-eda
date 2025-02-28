@@ -1,17 +1,27 @@
-# Flight Ticket Price Prediction  
+# Flight Ticket Price Analysis  
 
 ## Overview  
-This project uses machine learning to predict flight ticket prices based on factors such as airline, departure time, flight duration, and number of stops. By analyzing historical flight data, the model provides price estimates for new bookings, helping travelers and agencies make informed decisions.  
+This project explores flight ticket prices using data analysis techniques to identify patterns and factors affecting price variations. The analysis includes examining airlines, departure times, flight durations, number of stops, and other relevant features.  
 
 ## Objectives  
-- Build a predictive model for flight ticket prices.  
+- Perform exploratory data analysis (EDA) on flight ticket prices.  
 - Identify key factors influencing price variations.  
-- Provide data-driven price estimates for flights.  
+- Visualize trends and relationships in the dataset.  
 
-## Features Used  
-The model considers the following features:  
+## Data Analysis  
+The EDA process involves:  
+- Handling missing values and data cleaning.  
+- Visualizing distributions and correlations.  
+- Understanding how different features impact ticket prices.  
+
+## Features Analyzed  
 - **Airline:** The airline operating the flight.  
 - **Departure Time:** Scheduled flight departure time.  
 - **Duration:** Total flight duration.  
 - **Stops:** Number of layovers.  
 - **Other Factors:** Additional details that may influence ticket prices.  
+
+## Next Steps  
+- Feature engineering and data preprocessing.  
+- Model selection and training for price prediction.  
+- Evaluation and optimization of the predictive model.  
